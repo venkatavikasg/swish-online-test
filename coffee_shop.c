@@ -5,7 +5,7 @@ int main()
 {
   int x, d, t=0;
   float p;
-  scanf("%d %d", &x, &p);
+  scanf("%d %f", &x, &p);
   while(x>=1)
   {
     t=t+x;
